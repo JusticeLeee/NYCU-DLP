@@ -3,25 +3,25 @@
 teacher:陳永昇、吳毅成、彭文孝    
 
 
-# LAB1
+## LAB1
 BackProbgation
 
-# LAB2
+## LAB2
 TD-learning in 2048 
 
-# LAB3 
+## LAB3 
 EEG classification
 
-# LAB4
+## LAB4
 ResNet18 & ResNet50 
 
-# LAB5
+## LAB5
 VAE
 
-# LAB6
+## LAB6
 DDPG & DDQN
 
-# LAB7
+## LAB7
 cGAN & cNF
 
 
