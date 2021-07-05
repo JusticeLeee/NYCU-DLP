@@ -1,6 +1,6 @@
 # NYCU_DLP
 2021 NYCU資工所 Deep Learning and Practice class  
-teacher:陳永昇、吳毅成、彭文孝  
+teacher:陳永昇、吳毅成、彭文孝    
 有些ipynb檔存檔遺失 但可以正常執行  
 LAB7 只完成cGAN的部份  
 
