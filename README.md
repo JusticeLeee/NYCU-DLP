@@ -1,5 +1,5 @@
 # NYCU_DLP
-2021 NYCU資工所 Deep Learning and Practice class  
+2021 NYCU資工所 Deep Learning and Practice 
 teacher:陳永昇、吳毅成、彭文孝    
 
 
